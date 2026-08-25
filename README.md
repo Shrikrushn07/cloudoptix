@@ -1,4 +1,7 @@
 # CloudOptiX 🚀
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-cloudoptix--nu.vercel.app-blue?style=for-the-badge)](https://cloudoptix-nu.vercel.app/)
+
 ### AI-Driven Autonomous Multi-Cloud Resource & Workload Orchestrator
 
 CloudOptiX is an enterprise-grade, autonomous multi-cloud management platform designed to optimize, self-heal, and orchestrate workloads seamlessly across **Amazon Web Services (AWS)**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**. Leveraging advanced AI decision engines, it reduces cloud expenditure, minimizes operational latency, and enforces automated sovereign policy guardrails.
